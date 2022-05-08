@@ -1,1 +1,2 @@
 curses
+english-words

@@ -3,7 +3,7 @@
 ## Screenshots
 
 Initial screen:
-[Website](docs/initial.jpg)
+![Initial Screen](docs/initial.jpg)
 
 Gameplay:
 [Website](docs/game.jpg)

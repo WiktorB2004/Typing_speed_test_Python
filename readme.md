@@ -3,13 +3,13 @@
 ## Screenshots
 
 Initial screen:
-![Initial Screen](docs/initial.jpg)
+![Initial Screen](docs/initial.png)
 
 Gameplay:
-[Website](docs/game.jpg)
+![Gameplay Screen](docs/game.png)
 
 Summary:
-[Website](docs/summary.jpg)
+![Summary Screen](docs/summary.png)
 
 
 
